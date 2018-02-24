@@ -1,4 +1,4 @@
-baseurl = "http://backintechalliance.org/"
+baseurl = "http://blackintechalliance.org/"
 languageCode = "en-us"
 title = "Black In Tech Alliance"
 theme = "hugo-creative-theme"

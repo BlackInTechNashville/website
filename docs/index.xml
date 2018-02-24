@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Black In Tech Alliance</title>
-    <link>http://backintechalliance.org/</link>
+    <link>http://blackintechalliance.org/</link>
     <description>Recent content on Black In Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://backintechalliance.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blackintechalliance.org/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
