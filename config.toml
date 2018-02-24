@@ -1,8 +1,9 @@
-baseurl = "https://backintechalliance.org/"
+baseurl = "http://backintechalliance.org/"
 languageCode = "en-us"
 title = "Black In Tech Alliance"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
+publishDir = "docs"
 
 [params]
 
